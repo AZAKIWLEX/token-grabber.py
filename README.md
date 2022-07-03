@@ -1,2 +1,2 @@
 # token-grabber.py
-Token grabber simple
+Un token grabber bastante simple
